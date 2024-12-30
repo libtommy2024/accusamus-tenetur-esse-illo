@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/accusamus-tenetur-esse-illo",
-  "version": "4.16.227",
+  "version": "4.16.228",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -451,5 +451,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/accusamus-tenetur-esse-illo/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
